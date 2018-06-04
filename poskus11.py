@@ -1,5 +1,5 @@
 from tkinter import *
-import random
+import random 
 
 
 class Kocke:
