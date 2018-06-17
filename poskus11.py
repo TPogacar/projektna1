@@ -130,8 +130,6 @@ class Kocke:
                 self.rezultat.set('Bili ste blizu. Najbolje, da ponovno poskusite.')
        
 
-####### ne šteje pootez, ne konča igre (ko en pride do konca, ima drugi še eno potezo, nato se kocke se še vedno da metati ter javlja napako), ne vrne zmagovalca in rezultata
-### popravi imena: prvi in drugi igralec v barve igralcev
 
 okno = Tk()
 app = Kocke(okno)
