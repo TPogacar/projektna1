@@ -1,2 +1,2 @@
-# projektna1
+# Uvod v programiranje
 igra
